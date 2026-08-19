@@ -22,7 +22,7 @@
 
 ### 方式二：在线查看（GitHub Pages）
 将本仓库开启 GitHub Pages 后，可通过链接在线访问：
-`(https://zp-114514.github.io/-/index.html)`
+https://zp-114514.github.io/-/index.html
 
 
 ## 数据来源
